@@ -8,3 +8,9 @@ suma  | es suma de dos valores o mas  | suma = a + b
 lista  | lista de contenidos  | mi_lista = [1, 2, 3, 'a', 'b', 'c'] 
 bucle While  | permite elejir opciones del menu  | print("1. opcion 1") opcion = imput("ingrese su opcion: ")
 promedio  | mide la tendencia central  | promedio = suma_total / len(numeros)
+
+###Imagen de python
+
+Image:
+
+![](https://github.com/josuevillagra45/Python-Cheat-Sheet/python.foto.jpg)
